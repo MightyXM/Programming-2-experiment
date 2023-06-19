@@ -1,0 +1,6 @@
+Which of the following components of program state are shared across threads in a
+multithreaded process?
+a. Register values
+b. Heap memory
+c. Global variables
+d. Stack memory
